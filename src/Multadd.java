@@ -1,4 +1,5 @@
 import java.lang.Math;
+
 public class Multadd {
     public static double multadd(double a, double b, double c){
         return a * b + c;
