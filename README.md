@@ -1,5 +1,9 @@
 # Java Assignment 004
 
+## Help with Assignment!!
+this one was a challenge. I had to resort to Chatgpt to help with the syntax. I was able to map it(?) correctly.
+But I couldn't implement the String provided for the methods.
+
 **Instructions:**
 1. Fork this repository to your GitHub account.
 2. Clone the forked repository locally to your machine.
