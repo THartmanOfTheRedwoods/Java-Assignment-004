@@ -24,6 +24,5 @@ public class Multadd {
         // Calculates expSum
         double expsum = expSum(1.0);
         System.out.println("\nValue of expSum(1.0) = " + expsum);
-
     }
 }
