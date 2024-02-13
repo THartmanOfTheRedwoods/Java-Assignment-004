@@ -1,7 +1,7 @@
 public class multadd {
 
     public static double expSum(double x) {
-        return multadd(x, Math.exp(-x), Math.sqrt(1 - Math.exp(-x)));
+        return multadd(x*Math.exp(-x),Math.sqrt(1 - Math.exp(-x)),1.0);
     }
 
     public static double multadd(double a, double b, double c) {
